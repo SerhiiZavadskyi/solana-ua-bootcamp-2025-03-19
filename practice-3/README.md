@@ -3,7 +3,13 @@
 В практику 2 входять завдання 6 зі слайдів.
 
 Покладіть в цю папку будь-які файли, котрі ви будете створювати в рамках роботи
-над цими завданнями.  Детальний перелік дивіться в Google Classroom.
+над цими завданнями. Детальний перелік дивіться в Google Classroom.
 
 Не забудьте зберегти свою роботу (`git add`/`git commit`) та викласти її на
 GitHub (`git push`).
+
+### Посилання на favorites і escrow
+
+-   [favorites](https://github.com/SerhiiZavadskyi/favorites)
+
+-   [escrow](https://github.com/SerhiiZavadskyi/escrow)
